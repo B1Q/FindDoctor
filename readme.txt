@@ -12,5 +12,4 @@ why smarty? i used it a lot in the past and i'm familiar with how good it is
 
 
 Regards,
-Mohamed Hosny
-https://facebook.com/B1QB0SS
+B1Q
